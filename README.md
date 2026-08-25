@@ -20,7 +20,7 @@ reproducible defect or a concrete feature proposal, it becomes an issue.
 | I want to… | Go to |
 |---|---|
 | Report a bug in an AppJar, or request a feature | [AppJars/appjars → issues](https://github.com/AppJars/appjars/issues/new/choose) |
-| Report a problem with a demo or a kickstart | The issue tracker of that repository |
+| Report a problem with a demo | The issue tracker of that demo |
 | Get help with **my own** application | [Customer portal](https://customers.flowingcode.com) — included with Startup and Enterprise |
 | Read the documentation | [docs.appjars.com](https://docs.appjars.com) |
 | Report a security vulnerability | **security@appjars.com** — never in public. [Policy](https://www.appjars.com/security/) |
